@@ -20,7 +20,7 @@ title                    : Meng Luo blogs"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MENG LUO "
-description              : "PERLSONAL BLOGS"
+description              : "PERSONAL BLOGS"
 url                      : https://czheluo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,17 +94,17 @@ analytics:
 # Site Author
 author:
   name             : "MENG LUO"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "/images/czheluo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A bioinformatician, Interested in Human Genetics, Statistical Genomics, Biostatistics and Bioinformatics."
+  location         : "Century Medicine Park, Pudong new area, Shanghai, China"
+  email            : "czheluo@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "czheluo@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+       url: "https://czheluo.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/czheluo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -170,8 +170,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn

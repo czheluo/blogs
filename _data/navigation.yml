@@ -25,7 +25,7 @@ main:
     url: /Contact
     
   - title: "Blog"
-    url: /Blog
+    url: /post
 
   - title: "Team"
     url: /Team

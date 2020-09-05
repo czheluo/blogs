@@ -19,16 +19,16 @@ main:
   #   url: http://plantdhs.org/
 
   - title: "Publication"
-    url: /publication
+    url: /publication/
     
   - title: "Teaching & Lectures"
-    url: /teaching
+    url: /teaching/
     
   - title: "Blog"
-    url: /post
+    url: /post/
 
   - title: "Team"
-    url: /team
+    url: /team/
 
   - title: "Contact"
-    url: /contact
+    url: /contact/

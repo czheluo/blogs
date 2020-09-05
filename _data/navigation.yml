@@ -1,12 +1,32 @@
-# main links
+# main links links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: /
+
+  # - title: "Chrous"
+  #   url: https://github.com/forrestzhang/Chorus
+  #
+  # - title: "Popera"
+  #   url: https://github.com/forrestzhang/Popera
+  # - title: "Software"
+  #   children:
+  #     - title: "Chrous"
+  #       url: https://github.com/forrestzhang/Chorus
+  #     - title: "Popera"
+  #       url: https://github.com/forrestzhang/Popera
+  #
+  # - title: "PlantDHS"
+  #   url: http://plantdhs.org/
+
+  - title: "Publication"
+    url: /publication
+
+  - title: "Post"
+    url: /post
+
+  - title: "Tags"
+    url: /tags
+
+  - title: "Categories"
+    url: /categories
+    

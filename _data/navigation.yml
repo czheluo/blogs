@@ -22,13 +22,13 @@ main:
     url: /publication
     
   - title: "Teaching & Lectures"
-    url: /Contact
+    url: /teaching
     
   - title: "Blog"
     url: /post
 
   - title: "Team"
-    url: /Team
+    url: /team
 
   - title: "Contact"
-    url: /Contact
+    url: /contact

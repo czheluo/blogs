@@ -20,13 +20,16 @@ main:
 
   - title: "Publication"
     url: /publication
+    
+  - title: "Teaching & Lectures"
+    url: /Contact
+    
+  - title: "Blog"
+    url: /Blog
 
-  - title: "Post"
-    url: /post
+  - title: "Team"
+    url: /Team
 
-  - title: "Tags"
-    url: /tags
-
-  - title: "Categories"
-    url: /categories
+  - title: "Contact"
+    url: /Contact
     

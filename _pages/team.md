@@ -11,7 +11,7 @@ layout: single
 
 <div class="row">
   <div class="col-sm-6 col-md-4" align="center">
-      <img src="{{ "/images/team/czheluo.jpg" | prepend: site.baseurl }}" class="img-responsive img-circle" alt="Jean Fan">
+      <img src="{{ "/images/team/czheluo.jpg" | prepend: site.baseurl }}" class="img-responsive img-circle" alt="Meng Luo">
   </div>
   <div class="col-sm-6 col-md-8">
 	<h2 class="header-light regular-pad">Meng Luo (Leader)</h2>

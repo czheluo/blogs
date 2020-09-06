@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 comments: true
 enable_mathjax: true
 output: html_document

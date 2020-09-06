@@ -1,5 +1,6 @@
 ---
-layout: posts
+layout: single
+author_profile: true
 comments: true
 enable_mathjax: true
 output: html_document

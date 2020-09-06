@@ -4,6 +4,7 @@ author_profile: true
 comments: true
 enable_mathjax: true
 output: html_document
+toc: ture
 category: [BMD_man,BMD_qq]
 tags: [GWAS, ISR, Mult-loci model, Single-locus model,Simulation]
 ---

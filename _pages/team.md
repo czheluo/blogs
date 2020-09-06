@@ -29,7 +29,17 @@ layout: single
 <hr>
 
 <h1 align="center">Meet the Team</h1>
+### Taokuan Zhang
 <br>
 {% for pub in site.team %}
     {{ pub }}
 {% endfor %}
+
+### jiameng Li
+
+
+### chunxiang Xue
+
+
+### xiaolong He
+

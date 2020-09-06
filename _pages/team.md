@@ -13,7 +13,7 @@ layout: splash
 <div class="row">
   <br>
   <div class="col-sm-6 col-md-4" align="center">
-      <img src="{{ "/images/team/czheluo.jpg" | prepend: site.baseurl }}" class="img-responsive img-circle" alt="Meng Luo">
+      <img src="{{ "/images/team/czheluo.jpg" | prepend: site.baseurl }}" style=" border: 5px solid #ddd; border-radius: 20px;padding: 10px;width: 150%;" class="img-responsive img-circle" alt="Meng Luo">
   </div>
   <div class="col-sm-6 col-md-8">
     <br>

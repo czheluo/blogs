@@ -28,7 +28,7 @@ toc: true
 
 <hr>
 
-<h1 align="center">Meet the Team</h1>
+<h1 align="center"> Meet the Team In Majorbio </h1>
 
 <div class="row">
   <div class="col-sm-6 col-md-4" align="center">

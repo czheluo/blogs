@@ -54,9 +54,8 @@ $$FDR=FP/(TP+FP)$$
 
 Computing proportion of variance in phenotype explained by a given SNP (PVE) :
 
-```math
-PVE= 	\frac{\beta^2Var(X)}{ Var(Y)}=\frac{\beta^2Var(X)}{\beta^2Var(X)+\sigma^2}\approx \frac{Var(X\beta)}{ Var(Y)}
-```
+$$PVE= 	\frac{\beta^2Var(X)}{ Var(Y)}=\frac{\beta^2Var(X)}{\beta^2Var(X)+\sigma^2}\approx \frac{Var(X\beta)}{ Var(Y)}$$
+
 
 ### Mice
 

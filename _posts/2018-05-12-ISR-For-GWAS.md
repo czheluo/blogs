@@ -77,7 +77,7 @@ PVE= 	\frac{\beta^2Var(X)}{ Var(Y)}=\frac{\beta^2Var(X)}{\beta^2Var(X)+\sigma^2}
 
 Here was how I have coded for BMD GWAS Manhattan plot.
 
-```{matlab}
+```matlab
 load manha.mat
 [nsnp,phe]=size(mlssr);nchr=length(unique(chr));
 figure("Position",[0 200 1000 500])
@@ -163,7 +163,7 @@ end
 
 Here was the matlab code for BMD GWAS QQplot.
 
-```{matlab}
+```matlab
 load qq.mat
 o = -log10(sort(plm,'ascend'));
 alphaLevel=0.05;halflevel=0.5;oneMinusAlphalevel=1-alphaLevel;

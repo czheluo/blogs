@@ -8,6 +8,9 @@ toc: ture
 category: [BMD_man,BMD_qq]
 tags: [GWAS, ISR, Mult-loci model, Single-locus model,Simulation]
 ---
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML">
+</script>
 
 # Iterative Screen Regression model (ISR)
 

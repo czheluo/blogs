@@ -2,7 +2,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-<div class="page__footer-follow">
+<div class="page__footer-follow" align= "center">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
@@ -31,6 +31,10 @@
 </div>
 
 <div class="page__footer-copyright">&copy; 2016-{{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "BUILD WITH:" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll.</a></div>
+
+<br>
+<br>
+
 <div class="row">
 	    <div class="col-md-4">
 		  <a href="http://www.yzu.edu.cn/" target="_blank">

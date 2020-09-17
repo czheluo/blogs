@@ -10,7 +10,6 @@ layout: splash
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <br>
-<br>
 <div class="row">
   <h2 class="header-light regular-pad"> </h2>
   <div class="col-sm-6 col-md-4" align="center">
@@ -31,10 +30,8 @@ layout: splash
   </div>
 </div>
 
-<hr>
-
 <h1 align="center"> Meet the Team In Majorbio </h1>
-
+<br>
 <div class="row">
   <div class="col-sm-6 col-md-4" align="center">
       <img src="{{ "/images/team/taokuanzhang.jpg" | prepend: site.baseurl }}" style=" border: 5px solid #ddd; border-radius: 20px;padding: 10px;width: 150%;" class="img-responsive img-circle" alt="Meng Luo">

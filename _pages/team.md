@@ -49,7 +49,7 @@ layout: splash
   </div>
 </div>
 
-<hr>
+<br>
 
 <div class="row">
   <div class="col-sm-6 col-md-4" align="center">
@@ -68,7 +68,7 @@ layout: splash
   </div>
 </div>
 
-<hr>
+<br>
 <div class="row">
   <div class="col-sm-6 col-md-4" align="center">
       <img src="{{ "/images/team/dongmeifu.jpg" | prepend: site.baseurl }}" style=" border: 5px solid #ddd; border-radius: 20px;padding: 10px;width: 150%;"  class="img-responsive img-circle" alt="Meng Luo">
@@ -86,7 +86,7 @@ layout: splash
   </div>
 </div>
 
-<hr>
+<br>
 <div class="row">
   <div class="col-sm-6 col-md-4" align="center">
       <img src="{{ "/images/team/chunxiang.jpg" | prepend: site.baseurl }}" style=" border: 5px solid #ddd; border-radius: 20px;padding: 10px;width: 150%;" class="img-responsive img-circle" alt="Meng Luo">
@@ -104,7 +104,7 @@ layout: splash
   </div>
 </div>
 
-<hr>
+<br>
 
 
 <div class="row">
@@ -124,4 +124,4 @@ layout: splash
   </div>
 </div>
 
-<hr>
+<br>

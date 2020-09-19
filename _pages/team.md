@@ -1,4 +1,5 @@
 ---
+title : "Our Team"
 permalink: /team/
 author_profile: false
 toc: true

@@ -1,13 +1,32 @@
+.designation{
+  text-align: center;
+}
 h2 {
   font-size: 16px;
-  font-weight: normal;
+  font-weight: bold;
   padding: 8px;
-  background: #141414;
-  border-left: 16px solid red;
-  color: white;
+  padding-right: 0%;
+  background: #1e9dd8;
+  border-left: 18px solid rgb(94, 209, 123);
+  color: rgb(0, 0, 0);
   margin: 24px 0;
+  height: 100%;
+  width: 90%;
+  text-align: center;
 }
 
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+  padding: 8px;
+  padding-right: 0%;
+  background: #1e9dd8;
+  border-left: 18px solid rgb(94, 209, 123);
+  color: rgb(0, 0, 0);
+  margin: 24px 0;
+  height: 100%;
+  width: 90%;
+}
 .container {
   background: #eee;
   display: flex;
@@ -24,8 +43,8 @@ h2 {
 }
 
 .person {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   position: relative;
   perspective: 400px;
 }
@@ -46,8 +65,8 @@ h2 {
 .person .back {
   position: absolute;
   top: 0;
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
   background: #fff;
   display: flex;
   flex-direction: column;
@@ -72,4 +91,30 @@ h2 {
 .social img {
   margin: 8px;
   height: 24px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 10px;
+  /*height: 300px; /* Should be removed. Only for demonstration */
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  height: 200px;
+  width: 200px;
 }

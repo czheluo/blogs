@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Home"
+  - title: "HOME"
     url: /
 
   # - title: "Chrous"
@@ -18,17 +18,17 @@ main:
   # - title: "PlantDHS"
   #   url: http://plantdhs.org/
 
-  - title: "Publication"
+  - title: "PUBLICATION"
     url: /publication/
     
-  - title: "Teaching & Lectures"
+  - title: "TEACHING & LECTURES"
     url: /teaching/
     
-  - title: "Blogs"
+  - title: "BLOGS"
     url: /post/
 
-  - title: "Team"
+  - title: "TEAM"
     url: /team/
 
-  - title: "Contact"
+  - title: "CONTACT"
     url: /contact/

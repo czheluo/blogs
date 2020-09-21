@@ -16,7 +16,7 @@ main:
   #   url: https://github.com/forrestzhang/Popera
   # - title: "Software"
   #   
-  children:
+  #children:
   #     - title: "Chrous"
   #       url: https://github.com/forrestzhang/Chorus
   #     - title: "Popera"

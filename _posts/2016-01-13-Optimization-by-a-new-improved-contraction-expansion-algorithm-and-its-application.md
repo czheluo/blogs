@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 comments: true
 enable_mathjax: true
 output: html_document

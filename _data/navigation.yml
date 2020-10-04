@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "HOME"
-    #url: /
+    url: /
     children:
        - title: "Chrous"
          url: https://github.com/forrestzhang/Chorus

@@ -34,7 +34,7 @@ title: "Teaching & Lectures"
 
 - [Talk](https://speakerdeck.com/loyzhe) (presentation)
 
-
+- [Single cell RNA-seq data analysis with R AND Python workshop 2020 in MAJORBIO](https://github.com/czheluo/scRNAseq-workshop)
 
 
 

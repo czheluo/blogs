@@ -10,13 +10,13 @@ title: "Teaching & Lectures"
 
 ### Attending Workshops:
 
-- Onsite: ["GWAS Workshop (2016 Wuhan, China)"](http://zzlab.net/GWAS2016WUHAN/)instructed by Dr.Zhiwu Zhang
+- Onsite: ["GWAS Workshop (2016 Wuhan, China)"](http://zzlab.net/GWAS2016WUHAN/)instructed by [Dr.Zhiwu Zhang](http://www.zzlab.net/ZhiwuZhang/index.html)
 
-- Onsite: "GS Workshop (2017 Harbin, China)"instructed by Dr.Zhiwu Zhang
+- Onsite: ["GS Workshop (2017 Harbin, China)"](http://zzlab.net/GS2016Harbin/)instructed by [Dr.Zhiwu Zhang](http://www.zzlab.net/ZhiwuZhang/index.html)
 
-- Onsite: "Bioinformatics Workshop (2016 Yangzhou University, China)"instructed by Dr.Yunchen Gong
+- Onsite: ["Bioinformatics Workshop (2016 Yangzhou University, China)"](http://www.yzu.edu.cn/art/2016/12/12/art_37748_540042.html) instructed by [Dr.Yunchen Gong](http://www.cagef.utoronto.ca/people/)
 
-- Onsite: ["Principles of Statistical Genomics Workshop (2018 Yangzhou University, China)"](https://mp.weixin.qq.com/s?__biz=MzUyNzc2MzY5Mw==&mid=2247483663&idx=1&sn=690c9fc4247832f2a7d81a371b6645b0&chksm=fa7bd08dcd0c599b2b0c9c1fef81c347be5207656c2d6329a5a868b5a826ede9a282eda470db&mpshare=1&scene=23&srcid=0409WTKdLix6resSnoctRm1X#rd) Main instructed by Prof.Shizhong Xu
+- Onsite: ["Principles of Statistical Genomics Workshop (2018 Yangzhou University, China)"](https://mp.weixin.qq.com/s?__biz=MzUyNzc2MzY5Mw==&mid=2247483663&idx=1&sn=690c9fc4247832f2a7d81a371b6645b0&chksm=fa7bd08dcd0c599b2b0c9c1fef81c347be5207656c2d6329a5a868b5a826ede9a282eda470db&mpshare=1&scene=23&srcid=0409WTKdLix6resSnoctRm1X#rd) Main instructed by [Prof.Shizhong Xu](https://www.researchgate.net/profile/Shizhong_Xu2)
 
 - Online resources (learning by myself)：["23rd Summer Institute in Statistical Genetics (SISG2017)"](http://cnsgenomics.com/sisg/modules.html)
 

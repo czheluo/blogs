@@ -59,10 +59,10 @@ feature_row:
 
 {% include feature_row %}
 
-<link rel="stylesheet" href="assets/css/style.css">
-<div class="designation"  align="center"><h3>Recent Posts</h3></div>
+<!--link rel="stylesheet" href="assets/css/style.css">
+<div class="designation"  align="center"><h3>Recent Posts</h3></div-->
 
-<h3>Recent Posts</h3>
+<h3 style="font-weight: bold;">Recent Posts :</h3>
 
 {% for post in site.posts limit: 3 %}
   {% include archive-single.html %}

@@ -2,7 +2,8 @@
 layout: single
 author_profile: true
 permalink: /teaching/
-title: "Teaching & Lectures"
+#title: "Teaching & Lectures"
+toc: true
 ---
 ###  Teaching Experience: 
 

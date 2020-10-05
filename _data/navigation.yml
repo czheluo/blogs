@@ -37,13 +37,12 @@ main:
   - title: "TEAM"
     url: /team/
     
+  - title: "NEWS"
+    url: /news/  
+    
   - title: "JOIN US"
     url: /joinus/
     
   - title: "CONTACT"
-    url: /contact/
-    
-
-    
-    
+    url: /contact/  
     

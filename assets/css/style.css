@@ -2355,7 +2355,8 @@ ul{
 }
 
 .contact form button, .contact form input, .contact form textarea{
-  width:80%;
+  width:1200px;
+  height:150px;
   padding:1em;
   border:1px solid #c9e6ff;
 }

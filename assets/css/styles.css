@@ -133,6 +133,7 @@ ul{
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap:20px;
+  background-color: #e6eac2;
 }
 
 .contact form label{
@@ -152,6 +153,7 @@ ul{
   /*height:150px;*/
   padding:1em;
   border:1px solid #c9e6ff;
+  background-color: #82d8d8;
 }
 
 .contact form button{

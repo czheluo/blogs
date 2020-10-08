@@ -75,36 +75,9 @@ h2 {
 }
 
 /*# contact form */
-*{
-  box-sizing: border-box;
-}
-
-body{
-  background:#92bde7;
-  color:#485e74;
-  line-height:1.6;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  padding:1em;
-}
-
-.container{
-  max-width:1170px;
-  margin-left:auto;
-  margin-right:auto;
-  padding:1em;
-}
-
 ul{
   list-style: none;
   padding:0;
-}
-
-.brand{
-  text-align: center;
-}
-
-.brand span{
-  color:#fff;
 }
 
 .wrapper{

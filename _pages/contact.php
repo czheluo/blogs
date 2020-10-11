@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "CONTACT"
-permalink: /contact/
+permalink: /contacts/
 author_profile: false
 ---
 <?php

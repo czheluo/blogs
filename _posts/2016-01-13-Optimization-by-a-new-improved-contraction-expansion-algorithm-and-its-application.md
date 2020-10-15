@@ -5,7 +5,7 @@ comments: true
 enable_mathjax: true
 output: html_document
 title : "Optimization by a new improved contraction expansion algorithm and its application"
-toc: ture
+toc: false
 tags: [Nonlinear equation, Parameter estimation, Optimization,Contraction-expansion algorithm, Numerical differentiation, Fitting]
 ---
 

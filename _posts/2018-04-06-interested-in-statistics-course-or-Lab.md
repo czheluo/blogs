@@ -4,6 +4,7 @@ author_profile: true
 comments: true
 enable_mathjax: true
 output: html_document
+toc: true
 title : "Interested in statistics course or Lab"
 tags: [Lab, Statistical, Bioinformatics, Courses, Blogs]
 ---

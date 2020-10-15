@@ -1,7 +1,8 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 comments: true
+toc: true
 enable_mathjax: true
 output: html_document
 title : "LocusZoom Pipeline visualization of GWAS (eQTL, EWAS TWAS and MWAS) For any with refference genome species"

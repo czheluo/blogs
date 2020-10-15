@@ -1,8 +1,9 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 comments: true
 enable_mathjax: true
+toc: true
 output: html_document
 title : "An Efficient Iterative Screen Regression model For Genome wide Association Study in Structured-Populations"
 enable_mathjax: true

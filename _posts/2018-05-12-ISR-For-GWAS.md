@@ -5,7 +5,7 @@ comments: true
 enable_mathjax: true
 output: html_document
 title : "ISR For GWAS"
-toc: false
+toc: true
 category: [BMD_man,BMD_qq]
 tags: [GWAS, ISR, Mult-loci model, Single-locus model,Simulation]
 ---

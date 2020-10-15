@@ -1,7 +1,8 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 comments: true
+toc: true
 enable_mathjax: true
 output: html_document
 title : "Iterative Screen Regression Models for Genetic Mapping Studies of Epistasis of Quantitative Traits"

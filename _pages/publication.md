@@ -13,7 +13,7 @@ title: "Publication"
 - SHI Xuan, LI Lei, ZHENG Tong, LUO Meng, LI Tao. Differential Responses of Wheat Mutants with Hypersensitive Reaction-Like Trait to Nitrogen Dosage and Powdery Mildew Infection. Journal of Triticeae Crops. 2018,(38)04,410-417 DOI:10.7606/j.issn.1009-1041.2018.
 
 ### Unpublished:(Coming soon)
-- Meng Luo, Shiliang Gu. Luo, M. & Gu, S. [A new approach of dissecting genetic effects for complex traits](https://www.biorxiv.org/content/10.1101/2020.10.16.336180v1). bioRxiv, 2020.10.16.336180 (2020).
+- Luo, M. & Gu, S. [A new approach of dissecting genetic effects for complex traits](https://www.biorxiv.org/content/10.1101/2020.10.16.336180v1). bioRxiv, 2020.10.16.336180 (2020).
 - Meng Luo, Shiliang Gu. Iterative Screen Regression Models for Genetic Mapping Studies of Epistasis of Quantitative Traits. 2018, (Current preprint (BioRxiv)). My blog.
 - Meng Luo, Shiliang Gu. Genetic Prediction of Complex Traits with Iterative Screen Regression Models. 2018, (Current preprint (BioRxiv)). My blog.
 - Meng Luo, Shiliang Gu. Solve traveling salesman problem using EMF-CE algorithm. Transactions on Evolutionary Computation. (under review). My blog .

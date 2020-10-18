@@ -35,7 +35,7 @@ tags: [Data visualization, R, Bioinformatics,RNAseq,network,data sciences]
 
 ### Pipeline (Reference)
 
-<div align="center"><a href="https://f1000research.com/articles/5-1574/v1"><img src="Fig/pipeline.gif" width="60%" alt="pca"></a></div>
+<div align="center"><a href="https://f1000research.com/articles/5-1574/v1"><img src="/images/Blog/dataViz/pipeline.gif" width="60%" alt="pca"></a></div>
 
 ### Contact Me:
 > [meng.luo@majorbio.com](Meng Luo) OR [czheluo@gmail.com](Chenzhe Luo) 
@@ -112,7 +112,7 @@ res %>%
 
 ```
 
-<img src="Fig/maplot.png" width="80%" alt="npg">
+<img src="/images/Blog/dataViz/maplot.png" width="80%" alt="npg">
 
 ### volcano plot
 ```r
@@ -140,7 +140,7 @@ EnhancedVolcano(expres,lab = rownames(expres),
                 gridlines.minor = FALSE)
 dev.off()
 ```
-<img src="Fig/human.vol.png" width="80%" alt="npg">
+<img src="/images/Blog/dataViz/human.vol.png" width="80%" alt="npg">
 
 ## PCA
 ```r
@@ -180,7 +180,7 @@ p <- p + geom_point() + theme + xlab(percentage[1]) + ylab(percentage[2]) +
 p
 
 ```
-<img src="Fig/pca.png" width="80%" alt="pca">
+<img src="/images/Blog/dataViz/pca.png" width="80%" alt="pca">
 
 ## complexheatmap
 ```r
@@ -199,7 +199,7 @@ Heatmap(mmmat,
 
 dev.off()
 ```
-<img src="Fig/complexheatmap.png" width="100%" alt="heatmap">
+<img src="/images/Blog/dataViz/complexheatmap.png" width="100%" alt="heatmap">
 
 ## Circos
 
@@ -316,9 +316,9 @@ showSVG(myV4, opacity = 0.8, systemShow = T)
 
 
 ```
-<img src="Fig/venn.png" width="80%" alt="venn">
-<img src="Fig/upset.png" width="80%" alt="venn">
-<img src="Fig/mnVR.png" width="80%" alt="venn">
+<img src="/images/Blog/dataViz/venn.png" width="80%" alt="venn">
+<img src="/images/Blog/dataViz/upset.png" width="80%" alt="venn">
+<img src="/images/Blog/dataViz/mnVR.png" width="80%" alt="venn">
 
 
 ## Network
@@ -463,10 +463,10 @@ write.graph(pattern$graph3, "PosNeg0.6-abu.gml", format = "gml") # network file 
 ```
 ### [gephi](https://github.com/gephi/gephi/wiki)
 
-<img src="network/abu_all.png" width="80%" alt="venn">
+<img src="/images/Blog/dataViz/abu_all.png" width="80%" alt="venn">
 
 ### [Cytoscape](https://cytoscape.org/)
 
-<img src="network/PosNeg_otu.csv.jpg" width="80%" alt="venn">
+<img src="/images/Blog/dataViz/PosNeg_otu.csv.jpg" width="80%" alt="venn">
 
 

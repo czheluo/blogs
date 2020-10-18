@@ -1,30 +1,16 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 comments: true
 enable_mathjax: true
 output: html_document
-title : "ISR For GWAS"
+title : "Teaching Bioinformatics and R for dataviz course"
 toc: true
-category: [BMD_man,BMD_qq]
-tags: [GWAS, ISR, Mult-loci model, Single-locus model,Simulation]
+tags: [Data visualization, R, Bioinformatics,RNAseq,network,data sciences]
 ---
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML">
 </script>
-
----
-layout: single
-author_profile: false
-comments: true
-toc：true
-enable_mathjax: true
-output: html_document
-title : "Teaching Bioinformatics and R for dataviz course"
-enable_mathjax: true
-output: html_document
-tags: [Data visualization, R, Bioinformatics,RNAseq,network,data sciences]
----
 
 ###  WORKSHOP Overview 
 

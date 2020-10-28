@@ -16,5 +16,5 @@ title: "Publication"
 - Luo, M. & Gu, S. [A new approach of dissecting genetic effects for complex traits](https://www.biorxiv.org/content/10.1101/2020.10.16.336180v1). bioRxiv, 2020.10.16.336180 (2020).
 - Meng Luo, Shiliang Gu. Iterative Screen Regression Models for Genetic Mapping Studies of Epistasis of Quantitative Traits. 2018, (Current preprint (BioRxiv)). My blog.
 - Meng Luo, Shiliang Gu. Genetic Prediction of Complex Traits with Iterative Screen Regression Models. 2018, (Current preprint (BioRxiv)). My blog.
-- Meng Luo, Shiliang Gu. Solve traveling salesman problem using EMF-CE algorithm. Transactions on Evolutionary Computation. (under review). My blog .
+- Luo, Meng; Gu, Shiliang (2020): Solve traveling salesman problem using EMF-CE algorithm. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.13139042.v1 
 - #Meng Luo, #ZHANG Ming-Yan, PENG Yong-Xin, GUO Wen-Shan, ZHU Xin-Gai, LI Chun-Yan, BAI Gui-Hua, LI Tao and FENG Chao-Nian. Genome-Wide Association Analysis between SNP Markers and Zinc Content in Wheat Grains. Acta Agronomica Sinica, (in Chinese and under review). Core Journals!

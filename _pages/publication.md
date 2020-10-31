@@ -12,7 +12,7 @@ title: "Publication"
 - #Gong Xuan, #Meng Luo, Xiao Tianjing, Cao Jing, Li Lei, Li Tao. Variations in agronomic traits and resistance to Fusarium head blight in wheat mutants. Journal of Yangzhou University (Agricultural and Life Science Edition), 2017, doi: 10.16872/j.cnki.1671-4652.2017.04.011. (In chinese). Core Journals!
 - SHI Xuan, LI Lei, ZHENG Tong, LUO Meng, LI Tao. Differential Responses of Wheat Mutants with Hypersensitive Reaction-Like Trait to Nitrogen Dosage and Powdery Mildew Infection. Journal of Triticeae Crops. 2018,(38)04,410-417 DOI:10.7606/j.issn.1009-1041.2018.
 
-### Unpublished:(Coming soon)
+### Preprint
 - Luo, M. & Gu, S. [A new approach of dissecting genetic effects for complex traits](https://www.biorxiv.org/content/10.1101/2020.10.16.336180v1). bioRxiv, 2020.10.16.336180 (2020).
 - Meng Luo, Shiliang Gu. Iterative Screen Regression Models for Genetic Mapping Studies of Epistasis of Quantitative Traits. 2018, (Current preprint (BioRxiv)). My blog.
 - Meng Luo, Shiliang Gu. Genetic Prediction of Complex Traits with Iterative Screen Regression Models. 2018, (Current preprint (BioRxiv)). My blog.

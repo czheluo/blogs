@@ -18,3 +18,6 @@ title: "Publication"
 - Meng Luo, Shiliang Gu. Genetic Prediction of Complex Traits with Iterative Screen Regression Models. 2018, (Current preprint (BioRxiv)). My blog.
 - Luo, Meng; Gu, Shiliang (2020): [Solve traveling salesman problem using EMF-CE algorithm.](https://doi.org/10.36227/techrxiv.13139042.v2) TechRxiv. Preprint. 
 - #Meng Luo, #ZHANG Ming-Yan, PENG Yong-Xin, GUO Wen-Shan, ZHU Xin-Gai, LI Chun-Yan, BAI Gui-Hua, LI Tao and FENG Chao-Nian. Genome-Wide Association Analysis between SNP Markers and Zinc Content in Wheat Grains. Acta Agronomica Sinica, (in Chinese and under review). Core Journals!
+
+
+### Team Work in MajorBio

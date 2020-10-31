@@ -233,12 +233,12 @@ ul{
   cursor: pointer;
 }
 
-/*timeline*/
+/*timeline
 body {
   background: #3b4262;
   color: #ffffff;
   font-family: arial, sans-serif;
-}
+}*/
 .item {
   display: flex;
   max-width: 1000px;

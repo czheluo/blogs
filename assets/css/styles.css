@@ -233,3 +233,74 @@ ul{
   cursor: pointer;
 }
 
+/*timeline*/
+.item {
+  display: -webkit-box;
+  display: flex;
+  max-width: 1000px;
+  margin: 0 0 0 0;
+}
+.item .image {
+  padding: 5em 2em;
+}
+.item .image > div {
+  position: relative;
+  text-align: center;
+  font-size: 0.8em;
+}
+.item .image > div::after {
+  content: '';
+  width: 100%;
+  height: 0;
+  border-bottom: 2px solid #6bb82c;
+  position: absolute;
+  top: 5.75em;
+  left: 2.5em;
+  z-index: -1;
+}
+.item .image img {
+  border-radius: 50%;
+  width: 12em;
+  height: 12em;
+  border: 0.3em solid #5ecbd3;
+}
+.item .image span {
+  display: block;
+  clear: both;
+  padding: 0.85em 0;
+  margin: 0.5em 0;
+  background: rgb(16, 126, 12);
+}
+.item .details {
+  position: relative;
+  -webkit-box-flex: 1;
+          flex-grow: 1;
+}
+.item .details > div {
+  border: 2px solid #0bb8b8;
+  border-radius: 0.8em;
+  padding: 1.5em;
+  margin: 1em 0;
+}
+.item .details > div h1 {
+  color: #0a0e0d;
+  font-size: 1.4em;
+  margin: 0;
+  padding: 0 0 0.5em 0;
+  letter-spacing: 0.1em;
+}
+.item .details > div p {
+  margin: 0;
+  padding: 0;
+  line-height: 150%;
+}
+.item .details::before {
+  content: '';
+  width: 0;
+  height: 100%;
+  border-left: 2px solid rgb(22, 184, 89);
+  position: absolute;
+  top: 0;
+  left: -7.35em;
+  z-index: -1;
+}

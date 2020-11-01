@@ -108,7 +108,7 @@ section{
     padding: 0;
     list-style: none;
     margin:auto; 
-    width: 80%;
+    width: 100%;
 }
 
 .timeline:before {
@@ -251,7 +251,7 @@ section{
 
     .timeline>li .timeline-panel {
         float: left;
-        width: 36%;
+        width: 39%;
         padding: 0 0px 0px 0px;
         text-align: justify;
     }

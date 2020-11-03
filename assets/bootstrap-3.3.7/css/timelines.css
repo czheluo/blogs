@@ -243,7 +243,7 @@ section{
 
 @media(min-width:768px) {
     .timeline:before {
-        left: 50%;
+        left: 10%;
     }
 
     .timeline>li {
@@ -252,14 +252,14 @@ section{
     }
 
     .timeline>li .timeline-panel {
-        float: left;
-        width: 39%;
+        float: right;
+        width: 80%;
         padding: 0 0px 0px 0px;
         text-align: justify;
     }
 
     .timeline>li .timeline-image {
-        left: 50%;
+        left: 10%;
         width: 100px;
         height: 100px;
         margin-left: -50px;

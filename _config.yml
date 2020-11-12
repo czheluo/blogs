@@ -60,6 +60,8 @@ algolia:
   index_name             : czheluo.github.io # YOUR_INDEX_NAME
   search_only_api_key    : 4763e6080bf1158dfb41e8bc9ab3112d # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
+  files_to_exclude:
+    - _posts/2017-11-28-post-exclude-search.md
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true

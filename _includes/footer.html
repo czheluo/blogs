@@ -30,8 +30,10 @@
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
-
-<div class="page__footer-copyright" style="font-size:large;" align="center">&copy; 2016-{{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "BUILD WITH:" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll.</a></div>
+<!--a>
+{%{ site.time | date: '%Y' }%}
+</a-->
+<div class="page__footer-copyright" style="font-size:large;" align="center">&copy; 2016-2021 {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "BUILD WITH:" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll.</a></div>
 <br>
 <style>
 .column {

@@ -8,6 +8,9 @@ title : "scRNA-seq: Quality Control"
 toc: true
 tags: [Quality Control, QC, scRNA-seq, data sciences]
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RS5xoGE2yZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML">
 </script>

@@ -25,7 +25,7 @@ toc: true
 
 - [Interested in statistics course or Labs](http://mengluonet.com/blog/2018/04/06/interested-in-statistics-course-or-Lab)
 
-### Senior lecturer: 
+### Senior lecturer and DEPARTMENTAL SEMINARS: 
 
 - July 2018 - present
 
@@ -36,21 +36,4 @@ toc: true
 - [Talk](https://speakerdeck.com/loyzhe) (presentation)
 
 - [Single cell RNA-seq data analysis with R AND Python workshop 2020 in MAJORBIO](https://github.com/czheluo/scRNAseq-workshop)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
